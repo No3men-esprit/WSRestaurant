@@ -1,0 +1,5 @@
+tp\rest\ws\restaurant\entities\Table.class
+tp\rest\ws\restaurant\entities\Reservation.class
+tp\rest\ws\restaurant\ressources\RestActivator.class
+tp\rest\ws\restaurant\entities\Client.class
+tp\rest\ws\restaurant\webRessources\RestaurantWs.class
